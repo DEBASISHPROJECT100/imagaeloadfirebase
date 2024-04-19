@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391129119044",
+    "project_id": "imageloadtocloud",
+    "storage_bucket": "imageloadtocloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391129119044:android:b7f4df13da14bfddf63f11",
+        "android_client_info": {
+          "package_name": "com.example.imageloadtocloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNxBAAdZuol2OARVzAT0o2zoj6fnmTXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
